@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md Sadman Siraj"
+title                    : "Adedamola Adesokan"
 title_separator          : "-"
-name                     : &name "Md Sadman Siraj"
+name                     : &name "Adedamola Adesokan"
 description              : &description "Ph.D. Student, Department of Electrical & Computer Engineering, University of New Mexico, NM, USA."
-url                      : https://sadman-siraj.github.io/
+url                      : https://adedamola-adesokan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sadman-siraj/sadman-siraj.github.io"
+repository               : "damipedia/adedamola-adesokan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Md Sadman Siraj"
+  name             : "Adedamola Adesokan"
   avatar           : "https://sadman-siraj.github.io/images/Md_Sadman_Siraj.jpg"
   bio              : "Ph.D. Student, Department of Electrical & Computer Engineering, University of New Mexico, NM, USA."
   location         : "Albuquerque, New Mexico, USA"
   employer         : "University of New Mexico"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=S5HhON8AAAAJ&hl=en"
-  email            : "mdsadmansiraj96@unm.edu"
+  email            : "adesokanphilip74@unm.edu"
   researchgate     : "https://www.researchgate.net/profile/Md-Sadman-Siraj"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sadman-siraj"
+  github           : "damipedia"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sadman-siraj/"
+  linkedin         : "adedamola-adesokan/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"o_fisay0"
+  twitter          : #"damiphilip"
   vine             :
   weibo            :
   xing             :
