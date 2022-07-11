@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Engineering, Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque NM, USA. 2022 - Present
 * M.Sc. in Computer Engineering, Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque NM, USA. 2022 - Present
-* B.Sc. in Mechanical Engineering, Department of Mechanical Engineering, University of Lagos, Nigeria. - 2016
+* B.Sc. in Mechanical Engineering, Department of Mechanical Engineering, University of Lagos, Nigeria. 2016.
 
 Work experience
 ======
