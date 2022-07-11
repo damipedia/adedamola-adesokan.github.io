@@ -86,9 +86,9 @@ author:
   location         : "Albuquerque, New Mexico, USA"
   employer         : "University of New Mexico"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=S5HhON8AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=S5HhON8AAAAJ&hl=en"
   email            : "adesokanphilip74@unm.edu"
-  researchgate     : "https://www.researchgate.net/profile/Md-Sadman-Siraj"
+  researchgate     : #"https://www.researchgate.net/profile/Md-Sadman-Siraj"
   uri              :
   bitbucket        :
   codepen          :
