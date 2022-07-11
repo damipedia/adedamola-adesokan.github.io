@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching-old/
 venue: "University of New Mexico, Electrical and Computer Engineering Department"
-date: 08-22-2022
+date: 01-10-2022
 location: "Albuquerque, NM, USA"
 ---
 
