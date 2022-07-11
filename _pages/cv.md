@@ -11,32 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Engineering, Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque NM, USA. - 2026 (expected)
-* M.Sc. in Computer Engineering, Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque NM, USA. - 2024 (expected)
+* Ph.D. in Computer Engineering, Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque NM, USA. - 2022 - Present
+* M.Sc. in Computer Engineering, Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque NM, USA. - 2022 - Present
 * B.Sc. in Mechanical Engineering, Department of Mechanical Engineering, University of Lagos, Nigeria. - 2016
 
 Work experience
 ======
-* August. 2022 – Present: Graduate Research Assistant (University of New Mexico)
+* August. 2022 – Present: Graduate Teaching Assistant (University of New Mexico)
   * Undergraduate Courses: 
-    - TBD
+    - EC 341 - Communication Systems
 
 * May. 2021 – August 2022: Senior Consultant, Cybersecurity & Data Privacy (KPMG, Lagos, Nigeria)
   * Domains
-    - Cyber Security Research
-    - Application Security
-    - Vulnerability Assessments
-    - Penetration Testing
-    - Cloud Security
-    - DevSecOps
-    - Data Privacy
+    - Cyber Security Research, Application Security, Vulnerability Assessments, Penetration Testing, Cloud Security, DevSecOps, Data Privacy
+  * Duties
+    - Analyze the results of the security testing conducted and assist stakeholders with identifying viable remediation solutions for any vulnerability identified.
+    - Track, assist and manage to resolution the closure of security risks including reviewing plans and monitoring progress or remedial actions.
+    - Establish appropriate metrics to have a solid understanding of the operational issues and provide value reporting to the stakeholders.
+    - Provide an in-depth review of an organization’s ability to protect its information assets and its preparedness against cyber threats.
+    - Proactive assessment of an organization’s technical infrastructure including host-based log analysis, and/or network analysis to determine if any unidentified compromise has occurred previously.
+    - Provide a review of an organization’s ability to respond to cyber security incidents.
+
 
 * Sep. 2018 - May 2021: Information and Cyber Security Analyst (Access Bank Plc, Lagos, Nigeria)
+  * Domains
+    - Vulnerability Assessment & Penetration Testing, AppSec, DevSecOps, Information Security Management Systems (ISO 27001, ISO 22301 etc)
   * Duties
-    - Vulnerability Assessment & Penetration Testing
-    - AppSec
-    - DevSecOps
-    - Information Security Management Systems (ISO 27001, ISO 22301 etc)
+    - Performed on demand manual and automated vulnerability scanning, penetration testing and security analysis to find web application vulnerabilities.
+    - Conducted Static and Dynamic analysis on applications at every stage of the Software Development Life Cycle (SDLC) to adopt secure design and coding practices.
+    - Coordinated with development and engineering teams or third parties to fix system/application vulnerabilities.
+    - Full suite deployment of the WAF solution (Policy development, Threat intelligence and DDoS).
+    - Performed several cyber security Governance, Risk and Compliance (GRC) related functions that involved maintaining the organizations ISO 27001, PCI-DSS, Swift CSP, CBN risk assessment attestation/ certification. Particularly, coordinated the review exercises alongside external partners and auditors.
 
 * Sep. 2016 - May 2018: Information Technlogy Analyst (MFI Office Solutions Africa Limited, Lagos, Nigeria)
   * Duties
@@ -45,7 +50,7 @@ Work experience
 
 * July. 2015 – December 2015: Engineering Intern (NAPIMS, Lagos, Nigeria)
   * Duties: 
-     - Performed engineering inspection of SCADA system operations in Joint Venture (JV) Oil Production facilities.
+    - Performed engineering inspection of SCADA system operations in Joint Venture (JV) Oil Production facilities.
     - Attended conferences and seminars to keep up with industry trends.
       
 Technical Proficiency
