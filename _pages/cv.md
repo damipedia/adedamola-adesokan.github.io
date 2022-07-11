@@ -40,11 +40,13 @@ Work experience
 
 * Sep. 2016 - May 2018: Information Technlogy Analyst (MFI Office Solutions Africa Limited, Lagos, Nigeria)
   * Duties
-    - General IT support
+    - Installed and configured computer hardware, software, systems, networks, printers, and scanners
+    - Ensured proper follow–up of technical problems with our internal/ external partners and escalation of technical issues to senior colleagues.
 
 * July. 2015 – December 2015: Engineering Intern (NAPIMS, Lagos, Nigeria)
   * Duties: 
-    - HAZOP Studies
+     - Performed engineering inspection of SCADA system operations in Joint Venture (JV) Oil Production facilities.
+    - Attended conferences and seminars to keep up with industry trends.
       
 Technical Proficiency
 ======
@@ -70,6 +72,7 @@ Technical Proficiency
 
 Volunteering and Leadership
 ======
-* Actively volunteering in IEEE UNM Student Branch and IEEE WIE UNM Affinity Group.
-* Former Chairperson at IEEE Student Branch University of Dhaka, Bangladesh.
+* May. 2022 – Present: Threat intelligence researcher (NoGoFallMaga)
+* May 2017 – Apr 2018: Public Relations Officer (PRO) (Servicom and Gender Help Desk) 
+* Jan 2016 – Nov 2016: Served as the Electoral Committee Chairman (Mechanical Engineering Student Association (MESA))
 
