@@ -31,14 +31,14 @@ Work experience
     - DevSecOps
     - Data Privacy
 
-* Sep. 2018 - May 2021 2018: Information and Cyber Security Analyst (Access Bank Plc, Lagos, Nigeria)
+* Sep. 2018 - May 2021: Information and Cyber Security Analyst (Access Bank Plc, Lagos, Nigeria)
   * Duties
     - Vulnerability Assessment & Penetration Testing
     - AppSec
     - DevSecOps
     - Information Security Management Systems (ISO 27001, ISO 22301 etc)
 
-* Sep . 2016 - May 2018: Information Technlogy Analyst (MFI Office Solutions Africa Limited, Lagos, Nigeria)
+* Sep. 2016 - May 2018: Information Technlogy Analyst (MFI Office Solutions Africa Limited, Lagos, Nigeria)
   * Duties
     - General IT support
 
