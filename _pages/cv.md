@@ -65,6 +65,8 @@ Technical Proficiency
   
  Professional Certifications
 ======
+* CompTIA Cyber Security Analyst (CySA+)
+* CompTIA Advanced Security Practitioner (CASP+)
 * AWS Certified Cloud Practitioner
 * Microsoft Certified: Security Operations Analyst Associate (SC-200)
 * PECB ISO 27001 Lead Implementer
