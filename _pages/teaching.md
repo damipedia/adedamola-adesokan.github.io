@@ -8,11 +8,13 @@ date: 01-10-2022
 location: "Albuquerque, NM, USA"
 ---
 
-Signals & Systems [ECE-314L]
+Introduction to Computer Networks [ECE-440]
 ======
-Assisting in grading students in Signals & Systems [ECE-314L]
-- Fourier Representations, Linear Time-Invariant (LTI) Systems and Z-Transformations.
-
+Assisting in teaching and grading students in Communication Systems [ECE-440]
+- Network topologies, protocols and services
+- TCP/IP protocol suite
+- Point-to-point networks; broadcast networks; local area networks; routing, error and flow control techniques
+<!---
 Electromagnetic Fields & Waves [ECE-360]
 ======
 Assisting in grading students in Electromagnetic Fields & Waves [ECE-360]
@@ -22,3 +24,4 @@ Introduction to Power Systems [ECE-381]
 ======
 Assisting in grading students in Introduction to Power Systems [ECE-381]
 - Fundamentals of Power Systems, Power Transformers, Transmission Line Parameters, Power Flows, Symmetrical & Unsymmetrical Faults.
+--->
