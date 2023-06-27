@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Adedamola Adesokan"
 title_separator          : "-"
-name                     : &name "Adedamola Adesokan"
+name                     : &name "Adedamola Adesokan, CISSP"
 description              : &description "Ph.D. Student, Department of Electrical & Computer Engineering, University of New Mexico, NM, USA."
 url                      : https://adedamola-adesokan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  ISC2-CISSP       : "https://www.credly.com/badges/78ed0c84-9c5d-455a-9d4d-a2f1c48f1e99/linked_in_profile"
 
 
 # Reading Files
