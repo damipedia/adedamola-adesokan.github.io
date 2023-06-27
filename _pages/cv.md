@@ -69,7 +69,7 @@ Technical Proficiency
   
  Professional Certifications
 ======
-* Certified Information Systems Security Professional (CISSP)
+* <a href="https://www.credly.com/badges/78ed0c84-9c5d-455a-9d4d-a2f1c48f1e99/linked_in_profile" target="_blank">Certified Information Systems Security Professional (CISSP) </a>
 * CompTIA Cyber Security Analyst (CySA+)
 * CompTIA Advanced Security Practitioner (CASP+)
 * AWS Certified Cloud Practitioner
