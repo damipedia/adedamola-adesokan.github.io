@@ -23,8 +23,7 @@ Work experience
 
 * August. 2022 – Present: Graduate Teaching Assistant (University of New Mexico)
   * Undergraduate Courses: 
-    - ECE 341 - Communication Systems
-    - ECE 440 - 
+    - ECE 440 - Intro to Computer Networks
 
 * May. 2021 – August 2022: Senior Consultant, Cybersecurity & Data Privacy (KPMG, Lagos, Nigeria)
   * Domains
