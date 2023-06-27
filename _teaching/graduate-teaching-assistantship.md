@@ -8,9 +8,11 @@ date: 01-10-2022
 location: "Albuquerque, NM, USA"
 ---
 
-Communication Systems [ECE 341]
+Communication Systems [ECE 440]
 ======
-Assisting in grading students in Signals & Systems [ECE 341]
+Assisting in grading students in Communication Systems [ECE 440]
+
+
 <!-- - Fourier Representations, Linear Time-Invariant (LTI) Systems and Z-Transformations.-->
 <!-- - Fourier Representations, Linear Time-Invariant (LTI) Systems and Z-Transformations.-->
 

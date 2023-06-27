@@ -17,9 +17,14 @@ Education
 
 Work experience
 ======
+* June. 2023 – August 2023: Cloud Engineering Intern
+  * Domains 
+    - Cloud Engineering and Cyber Security
+
 * August. 2022 – Present: Graduate Teaching Assistant (University of New Mexico)
   * Undergraduate Courses: 
     - ECE 341 - Communication Systems
+    - ECE 440 - 
 
 * May. 2021 – August 2022: Senior Consultant, Cybersecurity & Data Privacy (KPMG, Lagos, Nigeria)
   * Domains
@@ -65,6 +70,7 @@ Technical Proficiency
   
  Professional Certifications
 ======
+* Certified Information Systems Security Professional (CISSP)
 * CompTIA Cyber Security Analyst (CySA+)
 * CompTIA Advanced Security Practitioner (CASP+)
 * AWS Certified Cloud Practitioner
@@ -79,6 +85,7 @@ Technical Proficiency
 
 Volunteering and Leadership
 ======
+* June 2022 - Present: Cyber Security Mentor (Springboard, SF, California, USA)
 * May. 2022 – Present: Threat intelligence researcher (NoGoFallMaga)
 * May 2017 – Apr 2018: Public Relations Officer (PRO) (Servicom and Gender Help Desk) 
 * Jan 2016 – Nov 2016: Served as the Electoral Committee Chairman (Mechanical Engineering Student Association (MESA))
