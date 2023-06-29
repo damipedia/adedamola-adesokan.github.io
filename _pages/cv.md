@@ -17,9 +17,10 @@ Education
 
 Work experience
 ======
-* June. 2023 – August 2023: Cloud Engineering Intern
+* June. 2023 – August 2023: Cloud Engineering Intern (Adaptive Biotechnologies, Seattle, Washington, USA)
   * Domains 
     - Cloud Engineering and Cyber Security
+    - Cloud Cost Optimization
 
 * August. 2022 – Present: Graduate Teaching Assistant (University of New Mexico)
   * Undergraduate Courses: 
@@ -60,8 +61,9 @@ Work experience
 Technical Proficiency
 ======
 *	Programming Languages: Python & Bash
-*	Cybersecurity: Vulnerability Management/ Assessment, Static & Dynamic Code Analysis, Risk Management, Penetration Testing
-*	Cloud Security: AWS & Azure
+*	Cybersecurity: Application Security, Threat Modelling, 
+Vulnerability Management/ Assessment, Static & Dynamic Code Analysis, Risk Management, Penetration Testing
+*	Cloud Security: AWS, Azure, GCP, Terraform, Ansible
 *	Operating System: Windows, Linux, Android and IOS
 *	Penetration Testing: Web, Mobile, Internal and External
 *	Networking: TCP/IP, OSI, Routers, Firewalls, VPN.
@@ -70,16 +72,16 @@ Technical Proficiency
  Professional Certifications
 ======
 * <a href="https://www.credly.com/badges/78ed0c84-9c5d-455a-9d4d-a2f1c48f1e99/linked_in_profile" target="_blank">Certified Information Systems Security Professional (CISSP) </a>
-* CompTIA Cyber Security Analyst (CySA+)
-* CompTIA Advanced Security Practitioner (CASP+)
-* AWS Certified Cloud Practitioner
-* Microsoft Certified: Security Operations Analyst Associate (SC-200)
+* <a href="https://www.credly.com/earner/earned/badge/fa6e9d09-0eaa-48fe-a1a5-ca418ddd428d" target="_blank">CompTIA Cyber Security Analyst (CySA+) </a>
+* <a href="https://www.credly.com/earner/earned/badge/7cf7972a-d568-4691-addb-372868d7f01c" target="_blank"> CompTIA Security Analytics Professional (CSAP)</a>
+* <a href="https://www.credly.com/earner/earned/badge/ac92fc15-1974-4841-938a-d490a7933096" target="_blank">AWS Certified Cloud Practitioner </a>
+* <a href="https://www.credly.com/earner/earned/badge/21eda219-b93f-42c1-afbb-407547df7027" target="_blank">Microsoft Certified: Security Operations Analyst Associate (SC-200) </a>
 * PECB ISO 27001 Lead Implementer
-* Certified Ethical Hacker (CEH) Practical
+* <a href="https://drive.google.com/file/d/1FaaRGWvnxLURpqygEaxN1u7wyetqsikn/view?usp=drive_link" target="_blank">Certified Ethical Hacker (CEH) Practical </a>
 * Certified Lead Pen Test Professional
-* eLearn Security Junior Penetration Tester (eJPT)
-* Microsoft Certified: Azure Fundamentals (AZ-900)
-* CompTIA Security + (SY0-501)
+* <a href="https://drive.google.com/file/d/1TYAij-5YOKh7B2_pyL_eUxkTTKsQGJ1P/view?usp=drive_link" target="_blank">eLearn Security Junior Penetration Tester (eJPT) </a>
+* <a href="https://www.credly.com/earner/earned/badge/6e2761e8-0d19-46b4-a45a-fa7d20a0e9e8" target="_blank">Microsoft Certified: Azure Fundamentals (AZ-900)</a>
+* <a href="https://www.credly.com/earner/earned/badge/f2fc223a-047d-421c-b0f7-bed81bea832b" target="_blank"> CompTIA Security + (SY0-501) </a>
 * Associate, Chartered Institute of Bankers of Nigeria (CIBN)
 
 Volunteering and Leadership
