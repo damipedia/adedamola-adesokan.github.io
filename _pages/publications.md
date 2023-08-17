@@ -15,7 +15,7 @@ permalink: /publications/
 <H2>Conference Publications</H2>
 
 <ol>
-   <li><p align="justify"><b>A. Adesokan</b>, M. S. Siraj, A. S. Penafiel, E. E. Tsiropoulou and S. Papavassiliou, "GAIA: A Dynamic Crowdmapping Framework based on Hedonic Coalition Formation Games", Globecom2023 SAC SN. (Under Review)</p></li>
+   <li><p align="justify"><b>A. Adesokan</b>, M. S. Siraj, A. S. Penafiel, E. E. Tsiropoulou and S. Papavassiliou, "GAIA: A Dynamic Crowdmapping Framework based on Hedonic Coalition Formation Games", Globecom2023 SAC SN. (Accepted)</p></li>
   <li><p align="justify"><b>A. Adesokan</b>, M. S. Siraj, A. B. Rahman, E. E. Tsiropoulou and S. Pavassiliou, "How to become an Influencer in Social Networks", IEEE ICC'23 - SAC-07 SN Track. (Accepted)</p></li>
 </ol>
 
